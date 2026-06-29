@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2f0034/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部六
+  hash: sha256:5f60e64555bb05171f88ef93eab5b1c285f44f3268a9880b3cbd1f2ca80456fa
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2f0034_WYG_000-1a, image: WYG0430/WYG0430-0303a.png}
+body:
+  text: 張襄壯奏疏詔令奏議類二奏議之屬提要臣等謹案張襄壯奏疏六卷國朝張勇撰勇字飛熊上元人積軍功官至靖逆侯靖逆將軍提督甘肅軍務加少傅兼太子太師是集為其子雲翼所編始於順治六年謝實授甘肅總兵官疏終於康熙二十三年甘州遺疏凡百二十篇勇初任甘肅總兵官時即內值肅州回民作亂外值昻漢夷人窺邊日事攻討中間奉調南征旋回甘肅復值王輔臣之亂往來征𠞰日無寧晷其沒也猶以防禦麥力幹之故力疾出師卒於軍營計始終兵間四十餘年王進寶趙良棟等皆由其偏禆起為名將自康熙十三年以後箭創病足以肩輿督師者十年屢乞解職皆荷優詔慰留卧理蓋兩朝受知之深諸將無逾於勇者今觀集中諸疏大抵皆兵間所作並剴切詳明言無不盡讀之可見開國之初底定秦隴之方略並可見列聖知人善任風雲際㑹極千載一時之盛焉乾隆四十五年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:15027067b113daf9297e211dbd60243fd380f6e427449465658b4cab02e7dd45
+metadata:
+  title: 張襄壯奏疏
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:33:17.759439'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2f0034/KR2f0034_000.txt
+hash: sha256:0ff8cc6b4a677d9c132717e32485e867eb15b10c5698a1e51a2a84273c9a33e9
